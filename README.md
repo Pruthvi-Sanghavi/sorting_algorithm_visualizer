@@ -10,4 +10,5 @@ cd sorting_algo
 npm start
 ```
 #### Credits
-This project is inspired by Clément Mihailescu's Algorithm Visualizer project.
+This project is inspired by Clément Mihailescu's Algorithm Visualizer project.\
+Link to the Youtube video: [link](https://youtu.be/pFXYym4Wbkc)
