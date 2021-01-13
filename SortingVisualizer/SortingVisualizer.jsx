@@ -1,4 +1,5 @@
 import React from 'react';
+import * as algorithms from '../algorithms/sortingAlgorithms.js'
 import './SortingVisualizer.css';
 
 export default class SortingVisualizer extends React.Component {
@@ -22,7 +23,9 @@ export default class SortingVisualizer extends React.Component {
 	}
 
 	bubble_sort() {
-
+		const unsorted = algorithms.bubble_sort(this.state.array);
+		console.log(unsorted);
+		
 	}
 
 	render(){
