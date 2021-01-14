@@ -9,6 +9,10 @@ cd sorting_algo
 ```
 npm start
 ```
+### TODO
+1. [ ] Port the sorting algorithms to the react app
+2. [ ] Animate sorting
+3. [ ] Add unit testing and CI
 #### Credits
 This project is inspired by Clément Mihailescu's Algorithm Visualizer project.\
 Link to the Youtube video: [link](https://youtu.be/pFXYym4Wbkc)
